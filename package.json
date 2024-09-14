@@ -1,0 +1,22 @@
+{
+  "name": "hogwarts",
+  "displayName": "Hogwarts",
+  "icon": "image/icon.jpeg",
+  "description": "A theme based on house of Hogwarts, made for an irl bestie.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Harry Potter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/harry-potter.json"
+      }
+    ]
+  }
+}

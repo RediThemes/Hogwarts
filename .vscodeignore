@@ -1,0 +1,11 @@
+# Ignore the VS Code settings directory
+.vscode/
+
+# Ignore node modules
+node_modules/
+
+# Ignore VSIX files
+*.vsix
+
+# Ignore test files and directories
+.vscode-test/
