@@ -3,7 +3,12 @@
   "displayName": "Hogwarts",
   "icon": "image/icon.jpeg",
   "description": "A theme based on house of Hogwarts, made for an irl bestie.",
+  "publisher": "redi-cool-themes",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RediThemes/Hogwarts"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
